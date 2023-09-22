@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lunaX</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="age_days">Age: %1$s days</string>
+</resources>
